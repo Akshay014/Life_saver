@@ -1,7 +1,7 @@
 # Life_saver
 
-Find       Replace
-&amp       &
-&lt;       <
-&gt;       >
-&quot;     "
+Find ____ Replace <br />
+\&amp; --->      &  <br />
+\&lt; --->      < <br />
+\&gt; --->      >  <br />
+\&quot; --->    "  <br />
